@@ -1,2 +1,3 @@
 # RAG
 School project practice
+:)
